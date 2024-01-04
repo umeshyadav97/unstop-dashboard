@@ -3,7 +3,8 @@ export const useStyles = () => {
     main: {
       display: "flex",
       flexDirection: "column",
-      flex: 1
+      flex: 1,
+
     }
   }
 }

@@ -2,7 +2,7 @@
 export const defaultTheme = {
   palette: {
     primary: {
-      main: "#6941C6",
+      main: "#1C4980",
       mainGradient:
         "linear-gradient(to top, rgba(255,255,255,1) 0%, rgba(241,249,246,1) 35%, #53389E 100%)",
     },
@@ -25,14 +25,14 @@ export const defaultTheme = {
   typography: {
     fontFamily: "poppins",
     h1: {
-      fontSize: 54,
-      lineHeight: 74 / 34,
+      fontSize: 14,
+      lineHeight: 12 / 12,
       fontWeight: 600,
     },
     h2: {
-      fontSize: 46,
-      lineHeight: 68 / 30,
-      fontWeight: 600,
+      fontSize: 12,
+      lineHeight: 12 / 12,
+      fontWeight: 500,
     },
     h3: {
       fontSize: 32,
