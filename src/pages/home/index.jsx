@@ -2,15 +2,15 @@ import React from "react";
 import Head from "next/head";
 import { Grid } from "@mui/material";
 
-function Dashboard() {
+function Home() {
   return (
     <React.Fragment>
       <Head>
-        <title>Dashboard</title>
+        <title>Home</title>
       </Head>
-      <Grid item>Dashboard</Grid>
+      <Grid item>Home</Grid>
     </React.Fragment>
   );
 }
 
-export default Dashboard;
+export default Home;

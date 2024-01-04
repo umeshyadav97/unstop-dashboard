@@ -28,7 +28,7 @@ import AdminImage from "../../assets/images/admin.svg";
 const pages = [
   {
     name: "Dashboard",
-    link: "/dashboard",
+    link: "/home",
     image: DashboardImage,
   },
   {

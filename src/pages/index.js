@@ -1,10 +1,10 @@
 import React from "react";
-import Dashboard from "./dashboard";
+import Home from "./home/index";
 
 function Index() {
   return (
     <React.Fragment>
-      <Dashboard></Dashboard>
+      <Home></Home>
     </React.Fragment>
   );
 }
