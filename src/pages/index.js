@@ -1,5 +1,5 @@
 import React from "react";
-import Home from "./Dashboard/index";
+import Home from "./home/index";
 
 function Index() {
   return (
